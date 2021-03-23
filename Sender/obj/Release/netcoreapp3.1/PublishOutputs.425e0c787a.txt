@@ -1,0 +1,5 @@
+C:\Users\rlalsa8843\Desktop\temp\vs\sender_11\Sender.exe
+C:\Users\rlalsa8843\Desktop\temp\vs\sender_11\Sender.dll
+C:\Users\rlalsa8843\Desktop\temp\vs\sender_11\Sender.deps.json
+C:\Users\rlalsa8843\Desktop\temp\vs\sender_11\Sender.runtimeconfig.json
+C:\Users\rlalsa8843\Desktop\temp\vs\sender_11\Sender.pdb

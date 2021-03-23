@@ -1,0 +1,13 @@
+C:\Users\rlalsa8843\source\repos\Sender\Sender\bin\Release\netcoreapp3.1\Sender.exe
+C:\Users\rlalsa8843\source\repos\Sender\Sender\bin\Release\netcoreapp3.1\Sender.deps.json
+C:\Users\rlalsa8843\source\repos\Sender\Sender\bin\Release\netcoreapp3.1\Sender.runtimeconfig.json
+C:\Users\rlalsa8843\source\repos\Sender\Sender\bin\Release\netcoreapp3.1\Sender.runtimeconfig.dev.json
+C:\Users\rlalsa8843\source\repos\Sender\Sender\bin\Release\netcoreapp3.1\Sender.dll
+C:\Users\rlalsa8843\source\repos\Sender\Sender\bin\Release\netcoreapp3.1\Sender.pdb
+C:\Users\rlalsa8843\source\repos\Sender\Sender\obj\Release\netcoreapp3.1\Sender.csprojAssemblyReference.cache
+C:\Users\rlalsa8843\source\repos\Sender\Sender\obj\Release\netcoreapp3.1\Sender.AssemblyInfoInputs.cache
+C:\Users\rlalsa8843\source\repos\Sender\Sender\obj\Release\netcoreapp3.1\Sender.AssemblyInfo.cs
+C:\Users\rlalsa8843\source\repos\Sender\Sender\obj\Release\netcoreapp3.1\Sender.csproj.CoreCompileInputs.cache
+C:\Users\rlalsa8843\source\repos\Sender\Sender\obj\Release\netcoreapp3.1\Sender.dll
+C:\Users\rlalsa8843\source\repos\Sender\Sender\obj\Release\netcoreapp3.1\Sender.pdb
+C:\Users\rlalsa8843\source\repos\Sender\Sender\obj\Release\netcoreapp3.1\Sender.genruntimeconfig.cache
